@@ -43,11 +43,9 @@ sentinel-linux-edr/
 ├── firewall_bloqueados.rules  # Regras iptables geradas automaticamente
 └── relatorio_incidente.json   # Saída forense consolidada da última varredura
 
-### Último passo: Salvar e enviar tudo para o seu GitHub
 
-Depois de colar o texto no `README.md` e apertar **`Ctrl + S`**, rode estes 3 comandos no terminal para publicar o projeto completo no seu repositório:
 
 ```bash
 git add .
-git commit -m "feat: implementa Sentinel EDR com FIM SHA-256, bloqueio de rede e auto-cura"
+git commit -m "Adiciona sistema Sentinel EDR com monitoramento de arquivos, bloqueio de IPs e recuperacao automatica"
 git push
