@@ -1,0 +1,22 @@
+{
+    "timestamp": "2026-11-16T15:44:26.616381",
+    "status_geral": "CRITICO",
+    "ips_bloqueados": [
+        {
+            "ip": "185.220.101.45",
+            "tentativas": 3,
+            "acao": "BLOQUEADO_NO_FIREWALL"
+        },
+        {
+            "ip": "203.0.113.99",
+            "tentativas": 4,
+            "acao": "BLOQUEADO_NO_FIREWALL"
+        }
+    ],
+    "violacoes_integridade": [
+        {
+            "arquivo": "arquivos_criticos/servidor_web.conf",
+            "status": "ADULTERADO_E_RESTAURADO"
+        }
+    ]
+}

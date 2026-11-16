@@ -1,0 +1,9 @@
+Nov 16 12:10:01 server sshd[1021]: Accepted publickey for admin from 10.0.0.15 port 51234
+Nov 16 12:12:10 server sshd[1044]: Failed password for root from 185.220.101.45 port 44120
+Nov 16 12:12:12 server sshd[1044]: Failed password for root from 185.220.101.45 port 44121
+Nov 16 12:12:15 server sshd[1044]: Failed password for root from 185.220.101.45 port 44122
+Nov 16 12:15:40 server sshd[1089]: Failed password for deploy from 45.33.32.156 port 33910
+Nov 16 12:35:01 server sshd[2011]: Failed password for root from 203.0.113.99 port 55001
+Nov 16 12:35:02 server sshd[2012]: Failed password for root from 203.0.113.99 port 55002
+Nov 16 12:35:03 server sshd[2013]: Failed password for root from 203.0.113.99 port 55003
+Nov 16 12:35:04 server sshd[2014]: Failed password for root from 203.0.113.99 port 55004
